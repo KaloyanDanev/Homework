@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\homework\01. Choose a Drink\bin\Debug\_01.Choose_a_Drink.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\homework\01. Choose a Drink\bin\Debug\_01.Choose_a_Drink.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\homework\01. Choose a Drink\bin\Debug\_01.Choose_a_Drink.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\homework\01. Choose a Drink\obj\Debug\_01.Choose_a_Drink.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\homework\01. Choose a Drink\obj\Debug\_01.Choose_a_Drink.pdb
