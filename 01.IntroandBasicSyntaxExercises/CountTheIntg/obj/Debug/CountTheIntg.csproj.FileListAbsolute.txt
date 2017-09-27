@@ -1,5 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\CountTheIntg\bin\Debug\CountTheIntg.exe.config
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\CountTheIntg\bin\Debug\CountTheIntg.exe
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\CountTheIntg\bin\Debug\CountTheIntg.pdb
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\CountTheIntg\obj\Debug\CountTheIntg.exe
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\CountTheIntg\obj\Debug\CountTheIntg.pdb
