@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\03.Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\03.Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\03.Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\03.Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\06. Strings And Objects.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\03.Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\03.Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

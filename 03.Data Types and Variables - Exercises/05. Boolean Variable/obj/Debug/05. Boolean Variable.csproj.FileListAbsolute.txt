@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2017\Projects\03.Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\03.Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+c:\users\admin\documents\visual studio 2017\Projects\03.Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+c:\users\admin\documents\visual studio 2017\Projects\03.Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+c:\users\admin\documents\visual studio 2017\Projects\03.Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb
