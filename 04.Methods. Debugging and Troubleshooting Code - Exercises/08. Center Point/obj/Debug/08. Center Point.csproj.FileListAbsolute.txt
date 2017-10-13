@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\08. Center Point\bin\Debug\_08.Center_Point.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\08. Center Point\bin\Debug\_08.Center_Point.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\08. Center Point\bin\Debug\_08.Center_Point.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\08. Center Point\obj\Debug\_08.Center_Point.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\08. Center Point\obj\Debug\_08.Center_Point.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\08. Center Point\obj\Debug\08. Center Point.csprojResolveAssemblyReference.cache

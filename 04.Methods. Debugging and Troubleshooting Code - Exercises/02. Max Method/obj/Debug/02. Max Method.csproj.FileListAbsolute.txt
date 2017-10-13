@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2017\Projects\01. Hello, Name!\02. Max Method\bin\Debug\_02.Max_Method.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\01. Hello, Name!\02. Max Method\bin\Debug\_02.Max_Method.exe
+c:\users\admin\documents\visual studio 2017\Projects\01. Hello, Name!\02. Max Method\bin\Debug\_02.Max_Method.pdb
+c:\users\admin\documents\visual studio 2017\Projects\01. Hello, Name!\02. Max Method\obj\Debug\_02.Max_Method.exe
+c:\users\admin\documents\visual studio 2017\Projects\01. Hello, Name!\02. Max Method\obj\Debug\_02.Max_Method.pdb

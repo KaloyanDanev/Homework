@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\04. Numbers in Reversed Order\obj\Debug\04. Numbers in Reversed Order.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\15. Substring\bin\Debug\_15.Substring.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\15. Substring\bin\Debug\_15.Substring.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\15. Substring\bin\Debug\_15.Substring.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\15. Substring\obj\Debug\_15.Substring.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\15. Substring\obj\Debug\_15.Substring.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\15. Substring\obj\Debug\15. Substring.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\13. Factorial\bin\Debug\_13.Factorial.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\13. Factorial\bin\Debug\_13.Factorial.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\13. Factorial\bin\Debug\_13.Factorial.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\13. Factorial\obj\Debug\13. Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\13. Factorial\obj\Debug\_13.Factorial.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\13. Factorial\obj\Debug\_13.Factorial.pdb

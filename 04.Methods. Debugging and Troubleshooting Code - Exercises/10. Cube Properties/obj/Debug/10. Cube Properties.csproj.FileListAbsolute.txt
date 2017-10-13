@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\10. Cube Properties\bin\Debug\_10.Cube_Properties.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\10. Cube Properties\obj\Debug\10. Cube Properties.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\10. Cube Properties\obj\Debug\_10.Cube_Properties.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\01. Hello, Name!\10. Cube Properties\obj\Debug\_10.Cube_Properties.pdb
