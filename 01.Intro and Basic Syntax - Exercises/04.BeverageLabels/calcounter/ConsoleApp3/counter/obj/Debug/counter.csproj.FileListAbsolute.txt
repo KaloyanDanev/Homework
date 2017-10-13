@@ -1,5 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\counter\bin\Debug\counter.exe.config
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\counter\bin\Debug\counter.exe
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\counter\bin\Debug\counter.pdb
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\counter\obj\Debug\counter.exe
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\counter\obj\Debug\counter.pdb

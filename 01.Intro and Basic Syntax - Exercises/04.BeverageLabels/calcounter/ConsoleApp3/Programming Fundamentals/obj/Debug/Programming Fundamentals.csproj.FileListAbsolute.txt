@@ -1,6 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Programming Fundamentals\obj\Debug\Programming Fundamentals.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb

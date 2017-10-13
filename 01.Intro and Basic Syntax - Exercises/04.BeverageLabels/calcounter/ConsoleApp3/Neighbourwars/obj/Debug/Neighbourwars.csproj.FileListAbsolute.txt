@@ -1,5 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Neighbourwars\bin\Debug\Neighbourwars.exe.config
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Neighbourwars\bin\Debug\Neighbourwars.exe
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Neighbourwars\bin\Debug\Neighbourwars.pdb
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Neighbourwars\obj\Debug\Neighbourwars.exe
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Neighbourwars\obj\Debug\Neighbourwars.pdb
