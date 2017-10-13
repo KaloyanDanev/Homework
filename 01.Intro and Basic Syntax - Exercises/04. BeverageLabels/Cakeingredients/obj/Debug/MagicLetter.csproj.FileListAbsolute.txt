@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Cakeingredients\bin\Debug\Cakeingredients.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Cakeingredients\bin\Debug\Cakeingredients.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Cakeingredients\bin\Debug\Cakeingredients.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Cakeingredients\obj\Debug\MagicLetter.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Cakeingredients\obj\Debug\Cakeingredients.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Cakeingredients\obj\Debug\Cakeingredients.pdb
