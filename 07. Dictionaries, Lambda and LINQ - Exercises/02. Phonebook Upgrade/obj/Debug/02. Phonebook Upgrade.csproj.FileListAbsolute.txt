@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.pdb
