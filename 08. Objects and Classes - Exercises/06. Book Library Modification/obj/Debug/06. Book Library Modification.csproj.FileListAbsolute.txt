@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\06. Book Library Modification\obj\Debug\06. Book Library Modification.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.pdb

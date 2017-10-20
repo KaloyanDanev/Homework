@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\Objects and Classes - Exercisess\bin\Debug\Objects and Classes - Exercisess.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\Objects and Classes - Exercisess\bin\Debug\Objects and Classes - Exercisess.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\Objects and Classes - Exercisess\bin\Debug\Objects and Classes - Exercisess.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\Objects and Classes - Exercisess\obj\Debug\01. Count Working Days.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\Objects and Classes - Exercisess\obj\Debug\Objects and Classes - Exercisess.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\Objects and Classes - Exercisess\obj\Debug\Objects and Classes - Exercisess.pdb

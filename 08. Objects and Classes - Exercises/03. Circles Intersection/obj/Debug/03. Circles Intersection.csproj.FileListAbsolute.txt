@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Objects and Classes - Exercisess\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.pdb
