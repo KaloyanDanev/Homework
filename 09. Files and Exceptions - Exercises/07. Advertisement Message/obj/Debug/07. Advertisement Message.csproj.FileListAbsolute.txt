@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\07. Advertisement Message\bin\Debug\_07.Advertisement_Message.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\07. Advertisement Message\bin\Debug\_07.Advertisement_Message.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\07. Advertisement Message\bin\Debug\_07.Advertisement_Message.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\07. Advertisement Message\obj\Debug\07. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\07. Advertisement Message\obj\Debug\_07.Advertisement_Message.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\07. Advertisement Message\obj\Debug\_07.Advertisement_Message.pdb

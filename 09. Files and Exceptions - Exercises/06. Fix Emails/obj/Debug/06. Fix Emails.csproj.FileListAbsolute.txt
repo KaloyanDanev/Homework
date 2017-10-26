@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\06. Fix Emails\bin\Debug\_06.Fix_Emails.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\06. Fix Emails\bin\Debug\_06.Fix_Emails.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\06. Fix Emails\bin\Debug\_06.Fix_Emails.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\06. Fix Emails\obj\Debug\06. Fix Emails.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\06. Fix Emails\obj\Debug\_06.Fix_Emails.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\06. Fix Emails\obj\Debug\_06.Fix_Emails.pdb

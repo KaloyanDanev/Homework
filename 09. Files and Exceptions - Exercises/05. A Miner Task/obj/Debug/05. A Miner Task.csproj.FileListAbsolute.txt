@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\05. A Miner Task\bin\Debug\_05.A_Miner_Task.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\05. A Miner Task\bin\Debug\_05.A_Miner_Task.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\05. A Miner Task\bin\Debug\_05.A_Miner_Task.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\05. A Miner Task\obj\Debug\05. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\05. A Miner Task\obj\Debug\_05.A_Miner_Task.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\05. A Miner Task\obj\Debug\_05.A_Miner_Task.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\08. Average Grades\bin\Debug\_08.Average_Grades.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\08. Average Grades\bin\Debug\_08.Average_Grades.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\08. Average Grades\bin\Debug\_08.Average_Grades.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\08. Average Grades\obj\Debug\08. Average Grades.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\08. Average Grades\obj\Debug\_08.Average_Grades.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\08. Average Grades\obj\Debug\_08.Average_Grades.pdb

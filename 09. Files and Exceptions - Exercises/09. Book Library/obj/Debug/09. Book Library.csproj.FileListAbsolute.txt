@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\09. Book Library\bin\Debug\_09.Book_Library.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\09. Book Library\bin\Debug\_09.Book_Library.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\09. Book Library\bin\Debug\_09.Book_Library.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\09. Book Library\obj\Debug\09. Book Library.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\09. Book Library\obj\Debug\_09.Book_Library.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\09. Book Library\obj\Debug\_09.Book_Library.pdb

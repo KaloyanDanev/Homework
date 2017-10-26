@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\03. Equal Sums\bin\Debug\_03.Equal_Sums.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\03. Equal Sums\bin\Debug\_03.Equal_Sums.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\03. Equal Sums\bin\Debug\_03.Equal_Sums.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\03. Equal Sums\obj\Debug\03. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\03. Equal Sums\obj\Debug\_03.Equal_Sums.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\03. Equal Sums\obj\Debug\_03.Equal_Sums.pdb

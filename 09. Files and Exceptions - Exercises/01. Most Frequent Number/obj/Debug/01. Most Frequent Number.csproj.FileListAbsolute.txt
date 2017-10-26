@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\Files and Exceptions - Exercises\bin\Debug\Files and Exceptions - Exercises.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\Files and Exceptions - Exercises\bin\Debug\Files and Exceptions - Exercises.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\Files and Exceptions - Exercises\bin\Debug\Files and Exceptions - Exercises.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\Files and Exceptions - Exercises\obj\Debug\01. Most Frequent Number.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\Files and Exceptions - Exercises\obj\Debug\01. Most Frequent Number.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\Files and Exceptions - Exercises\obj\Debug\Files and Exceptions - Exercises.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Files and Exceptions - Exercises\Files and Exceptions - Exercises\obj\Debug\Files and Exceptions - Exercises.pdb
