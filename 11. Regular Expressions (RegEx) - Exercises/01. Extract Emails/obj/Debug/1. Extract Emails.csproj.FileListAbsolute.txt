@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\bin\Debug\Regular Expressions (RegEx) - Exercises.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\bin\Debug\Regular Expressions (RegEx) - Exercises.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\bin\Debug\Regular Expressions (RegEx) - Exercises.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\obj\Debug\1. Extract Emails.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\obj\Debug\1. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\obj\Debug\Regular Expressions (RegEx) - Exercises.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\obj\Debug\Regular Expressions (RegEx) - Exercises.pdb

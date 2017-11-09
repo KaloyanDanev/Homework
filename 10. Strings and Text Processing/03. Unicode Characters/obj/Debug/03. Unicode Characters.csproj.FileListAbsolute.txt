@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Strings and Text Processing\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Strings and Text Processing\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Strings and Text Processing\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Strings and Text Processing\03. Unicode Characters\obj\Debug\03. Unicode Characters.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Strings and Text Processing\03. Unicode Characters\obj\Debug\03. Unicode Characters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Strings and Text Processing\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Strings and Text Processing\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb
